@@ -10,7 +10,7 @@ This repository contains examples of the work that I've done so far. Please take
     - [Real Estate Price Prediction with Linear Regression](https://github.com/danielmaxsiegel/data-science/tree/main/machine_learning/real_estate_price_prediction_linear_regression.ipynb)
 
 2. [Deep Learning](https://github.com/danielmaxsiegel/Data-Science/tree/main/deep_learning)
-    - [Horse Race Analysis](https://github.com/AI-at-GBC/https://github.com/AI-at-GBC/Woodbine-Racetrack)
+    - [Horse Race Analysis](https://github.com/AI-at-GBC/Woodbine-Racetrack)
     - [Mushroom Odour Classifier](https://github.com/danielmaxsiegel/data-science/tree/main/deep_learning/mushrooms.ipynb)
 
 3. [NLP](https://github.com/danielmaxsiegel/Data-Science/tree/main/nlp)
