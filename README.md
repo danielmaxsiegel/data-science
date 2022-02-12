@@ -15,8 +15,15 @@ This repository contains examples of the work that I've done so far. Please take
 
 3. [NLP](https://github.com/danielmaxsiegel/Data-Science/tree/main/nlp)
     - [Detecting and changing the sentiment of negative Tweets](https://github.com/AI-at-GBC/tweet-analysis)
+    - [Prescription Parser](https://github.com/danielmaxsiegel/data-science/tree/main/nlp/prescription_parser.ipynb)
     - [Movie Recommenders](https://github.com/danielmaxsiegel/data-science/tree/main/nlp/movie_recommenders.ipynb)
 
+4. Python Projects
+    - [Meme Masher](https://github.com/danielmaxsiegel/meme-masher)
+
+5. [Image Processing](https://github.com/danielmaxsiegel/Data-Science/tree/main/image_processing)
+    - [Image Segmentation](https://github.com/danielmaxsiegel/data-science/tree/main/image_processing/image_segmentation.ipynb)
+    - [Whale and Dolphin Classifier](https://github.com/danielmaxsiegel/kaggle-happywhale)
 
 ### Contact Me
 
