@@ -7,6 +7,7 @@ This repository contains examples of the work that I've done so far. Please take
 
 1. [Machine Learning](https://github.com/danielmaxsiegel/Data-Science/tree/main/machine_learning)
     - [Traffic Accident Injury Analysis](https://github.com/AI-at-GBC/ksi_analysis)
+    - [Comparing Random Forest and Ensemble Algorithms](https://github.com/danielmaxsiegel/data-science/tree/main/machine_learning/comparing_random_forests_and_ensemble.ipynb)
     - [Real Estate Price Prediction with Linear Regression](https://github.com/danielmaxsiegel/data-science/tree/main/machine_learning/real_estate_price_prediction_linear_regression.ipynb)
 
 2. [Deep Learning](https://github.com/danielmaxsiegel/Data-Science/tree/main/deep_learning)
