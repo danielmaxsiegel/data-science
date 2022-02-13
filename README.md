@@ -1,5 +1,5 @@
-# Daniel Siegel - Data Science Project Portfolio
-Hello! My name is Daniel, and I'm a data scientist in training from Toronto. After completing a bachelor's degree in computer science and working as a professional software engineer for a few years, I decided to go back to school and complete a postgraduate program in [artificial intelligence at George Brown](https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-t431) in order to pivot my career and become a full stack data scientist or machine learning engineer.
+# Daniel Siegel - Machine Learning Project Portfolio
+Hello! My name is Daniel, and I'm an artificial intelligence developer in training from Toronto. After completing a bachelor's degree in computer science and working as a professional software engineer for a few years, I decided to go back to school and complete a postgraduate program in [artificial intelligence at George Brown](https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-t431) in order to pivot my career and become a full stack data scientist or machine learning engineer.
 
 This repository contains examples of the work that I've done so far. The data used in these projects is a mix of tabular, sound, images, and more - and while I liked working on all of it, I really enjoyed image processing. Please take a look, and feel free to reach out!
 
